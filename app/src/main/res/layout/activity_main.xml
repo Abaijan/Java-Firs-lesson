@@ -21,7 +21,6 @@
         android:layout_height="wrap_content"
         android:text="Отправить"
         android:layout_gravity="center"/>
-
     <TextView
         android:id="@+id/textView"
         android:gravity="center"
